@@ -1,7 +1,5 @@
 # Optimization Techniques — CSE(DS)-5003
 
-**Module 3: Genetic Algorithms — A Simple Introduction**
-
 This repository contains open course materials for 
 **Optimization Techniques (CSE(DS)-5003)** at the 
 Indian Institute of Information Technology, Bhopal.
@@ -41,3 +39,4 @@ Not for commercial use.
 Dr. Kanchan Rajwar
 Department of Mathematics
 Indian Institute of Information Technology, Bhopal
+kanchan.rajwar@iiitbhopal.ac.in
